@@ -1,0 +1,6 @@
+HANMEDI_OKChart_Setup_2026-07-31-05 sql 버튼 수정
+HANMEDI_OKChart_Setup_2026-07-31-06 팝업창크기조정
+HANMEDI_OKChart_Setup_2026-07-31-07 검사 버튼 추가
+HANMEDI_OKChart_Setup_2026-08-01-03 화면1.3배 버튼 추가
+HANMEDI_OKChart_Setup_2026-08-01-04 PC이름복사 버튼 추가
+HANMEDI_OKChart_Setup_2026-08-03-02 고해상도대응 팝업창크기 조절

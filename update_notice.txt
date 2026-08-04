@@ -1,3 +1,4 @@
+"version": "2026.08.04.01"
 HANMEDI_OKChart_Setup_2026-08-04-10 open_remove_background
 HANMEDI_OKChart_Setup_2026-08-04-09_TouchEn 제거창 열기 추가
 HANMEDI_OKChart_Setup_2026-08-04-07 정상 OKmessage 61075 포트. TouchEn 제거후 리부팅 권장 문구 수정

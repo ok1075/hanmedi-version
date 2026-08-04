@@ -1,13 +1,13 @@
 "version": "2026.08.04.01"
-HANMEDI_OKChart_Setup_2026-08-04-10 open_remove_background
-HANMEDI_OKChart_Setup_2026-08-04-09_TouchEn 제거창 열기 추가
+HANMEDI_OKChart_Setup_2026-08-04-10 "직인배경제거 파일" 수정
+HANMEDI_OKChart_Setup_2026-08-04-09 OK메시지 오류 검출 개선
 HANMEDI_OKChart_Setup_2026-08-04-07 정상 OKmessage 61075 포트. TouchEn 제거후 리부팅 권장 문구 수정
 HANMEDI_OKChart_Setup_2026-08-04-06 sql설치불가 감지 코드 추가
-HANMEDI_OKChart_Setup_2026-08-03-12 DISM SFC
-HANMEDI_OKChart_Setup_2026-08-03-11 ime 미지원 추가
+HANMEDI_OKChart_Setup_2026-08-03-12 "DISM SFC" Gui메인 화면에 추가 
+HANMEDI_OKChart_Setup_2026-08-03-11 ime 미지원 win10 제외 코드 추가
 HANMEDI_OKChart_Setup_2026-08-03-10 나의공유 상대공유 버튼 추가
-HANMEDI_OKChart_Setup_2026-08-03-09_Win11_IME 감지 수정
-HANMEDI_OKChart_Setup_2026-08-03-08 본인ip 추가
+HANMEDI_OKChart_Setup_2026-08-03-09 Win11_IME 감지 수정
+HANMEDI_OKChart_Setup_2026-08-03-08 \okchart,55555 원장실 ip 추가
 HANMEDI_OKChart_Setup_2026-08-03-05 Setup 패치 내용 팝업 기능 추가
 HANMEDI_OKChart_Setup_2026-08-03-02 고해상도대응 팝업창크기 조절
 HANMEDI_OKChart_Setup_2026-08-01-04 메인설치탭에 "PC이름복사" 버튼 추가

@@ -1,17 +1,17 @@
 "version": "2026.08.04.01"
-HANMEDI_OKChart_Setup_2026-08-04-10 "직인배경제거 파일" 수정
-HANMEDI_OKChart_Setup_2026-08-04-09 OK메시지 오류 검출 개선
-HANMEDI_OKChart_Setup_2026-08-04-07 정상 OKmessage 61075 포트. TouchEn 제거후 리부팅 권장 문구 수정
-HANMEDI_OKChart_Setup_2026-08-04-06 sql설치불가 감지 코드 추가
-HANMEDI_OKChart_Setup_2026-08-03-12 "DISM SFC" Gui메인 화면에 추가 
-HANMEDI_OKChart_Setup_2026-08-03-11 ime 미지원 win10 제외 코드 추가
-HANMEDI_OKChart_Setup_2026-08-03-10 나의공유 상대공유 버튼 추가
-HANMEDI_OKChart_Setup_2026-08-03-09 Win11_IME 감지 수정
-HANMEDI_OKChart_Setup_2026-08-03-08 \okchart,55555 원장실 ip 추가
-HANMEDI_OKChart_Setup_2026-08-03-05 Setup 패치 내용 팝업 기능 추가
-HANMEDI_OKChart_Setup_2026-08-03-02 고해상도대응 팝업창크기 조절
-HANMEDI_OKChart_Setup_2026-08-01-04 메인설치탭에 "PC이름복사" 버튼 추가
-HANMEDI_OKChart_Setup_2026-08-01-03 왼쪽하단 "화면" 1.3배 버튼 추가
-HANMEDI_OKChart_Setup_2026-07-31-07 메인화면 "윈도우 시스템 검사" 버튼 추가
-HANMEDI_OKChart_Setup_2026-07-31-06 팝업창크기 조정
-HANMEDI_OKChart_Setup_2026-07-31-05 sql 버튼 수정
+2026-08-04-10 "직인배경제거 파일" 수정(배경제거 잘안되는 경우 쳇gpt에...)
+2026-08-04-09 OK메시지 오류 검출 개선
+2026-08-04-07 정상 OKmessage 61075 포트. TouchEn 제거후 리부팅 권장 문구 수정
+2026-08-04-06 GUI 실행시 "sql설치불가" 감지 코드 추가
+2026-08-03-12 "DISM SFC" Gui메인 화면에 추가 
+2026-08-03-11 ime 감지 미지원 win10 제외 코드 추가
+2026-08-03-10 나의공유 상대공유 버튼 추가
+2026-08-03-09 Win11_IME 감지 수정
+2026-08-03-08 \okchart,55555 원장실 ip 추가해주는 버튼 추가
+2026-08-03-05 Setup 패치 내용 팝업 기능 추가
+2026-08-03-02 고해상도대응 팝업창크기 조절
+2026-08-01-04 메인설치탭에 "PC이름복사" 버튼 추가
+2026-08-01-03 왼쪽하단 "화면" 1.3배 버튼 추가
+2026-07-31-07 메인화면 "윈도우 시스템 검사" 버튼 추가
+2026-07-31-06 팝업창크기 조정
+2026-07-31-05 sql 버튼 수정
